@@ -1,0 +1,5 @@
+Model,Test accuracy %,5 fold CV accuracy %
+Simple rule (yellowness),72.7,
+KNN,87.1,83.4
+Random Forest,87.9,86.0
+SVM,90.9,88.7

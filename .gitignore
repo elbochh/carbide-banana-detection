@@ -1,0 +1,13 @@
+# dataset (download it from Mendeley, see README)
+data/raw/
+data/processed/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# os
+.DS_Store

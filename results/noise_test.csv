@@ -1,0 +1,3 @@
+Noise strength,Mask IoU without enhancement,Mask IoU with enhancement,Spots on clean photo,Spots without enhancement,Spots with enhancement
+15,0.45,0.98,59,192,80
+30,0.0,0.86,59,0,134
